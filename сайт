@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap" rel="stylesheet">
+    <title>фитнес</title>
+</head>
+<body>
+    <div class="ega">
+    </div>
+        <img src="images/Rectangle 3139.png" class="kol">
+        <img src="images/Logo.png" class="logo">
+        <div class="home">
+            <p>Home</p>
+         </div>
+         <div class="traning">
+             <p>Traning</p>
+         </div>
+         <div class="contact">
+             <p>Contact</p>
+         </div>
+         <div class="fit">
+            <p>_Fitness Club</p>
+        </div>
+        <div class="healthy">
+            <p>Sweat,Smile<br>And Repeat</p>
+        </div>
+        <div class="gym">
+            <p>A gym is a club, building, or large room, usually<br>containing special equipment, where people go to</p>
+        </div>
+        <div class="join"> 
+            <p>Join now </p>
+        </div>
+        <div class="Know"> 
+            <p>Know more </p>
+        </div>
+        <div class= "servise"> 
+            <p>Our Services</p>
+        </div>
+        <div class= "for">
+            <p>Awesome Packages That We <br> Offer For Our Clients</p>
+        </div>
+        <div class= "med">
+            <p>Meditation <br> Programme</p>
+        </div>
+        <div class= "mus">
+            <p>Muscle <br> Building</p>
+        </div>
+        <div class= "cr">
+            <p>Cardio <br> Programme</p>
+        </div>
+        <div class= "nt">
+            <p>Nutrition <br> Supports </p>
+        </div>
+        <div class= "lr">
+            <p> Learn more</p>
+        </div>
+        <div class= "hee">
+            <p>Health Benefits</p>
+        </div>
+        <div class= "ph">
+            <p>Physical Exercise Gives <br> Your Body The Wings</p>
+        </div>
+        <div class= "aaa">
+            <p>Physical activity and exercise can have immediate and <br> long-tern health benefits. Most importantly, regular <br> activity can improve your quality of life. Exercise can <br> improve your health and reduce the risk of</p>
+        </div>
+        <div class="llll">
+            <p> Learn more </p>
+        </div>
+        <div class= "pppp">
+            <p>Improve Moods</p>
+        </div>
+        <div class= "rrrrr">
+            <p>Makes You More Active <br> And Improve Moods</p>
+        </div>
+        <div class="yyy">
+            <p>Physical activity and exercise can have immediate and <br> long-tern health benefits. Most importantly, regular <br> activity can improve your quality of life. Exercise can <br> improve your health and reduce the risk of </p>
+
+        </div>
+        <div class= "gg">
+            <p> Learn more</p>
+        </div>
+        <img src="images/Vector.png" class="vec">
+        <img src="images/Menu.png" class="menu">
+        <img src="images/Play Button.png" class="play">
+        <img src="images/wellness 1.png" class="well">
+        <img src="images/exercise 1.png" class="ex">
+        <img src="images/exercise (1) 1.png" class="exe">
+        <img src="images/nutrition 1.png" class="nut">
+        <img src="images/Right arrow.png" class="ra">
+        <img src="images/Left Arrow.png" class="la">
+        <img src="images/Image.png" class="kkk">
+        <img src= "images/Image1.png" class="mmm">
+             
+</body>
+</html>
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif
+}
+.kol{
+    position:absolute;
+    top:0px;
+    left:1200px;  
+}
+.logo{
+    position:absolute;
+    left:80px;
+}
+.home{
+    position: absolute;
+    font-family: 'Sono', sans-serif;
+    font-size:17px;
+    top:25px;
+    left:550px;
+    color:black;
+}
+.traning{
+    position: absolute;
+    font-family: 'Sono', sans-serif;
+    font-size:17px;
+    top:25px;
+    left:670px;
+    color:black;
+}
+.contact{
+    position: absolute;
+    font-family: 'Sono', sans-serif;
+    font-size:17px;
+    top:25px;
+    left:800px;
+    color:black;
+}
+.fit{
+    position: absolute;
+    font-family: 'Sono', sans-serif;
+    font-size:20px;
+    top:200px;
+    left:150px;
+    color:black;
+}
+.vec{
+    position: absolute;
+    left: 280px;
+    width: 50px;
+    top:190px;
+}
+.menu{
+    position:absolute;
+    top:15px;
+    left: 1700px;
+
+}
+.healthy{
+    position: absolute;
+    top:230px;
+    left:120px;
+    color:black;
+    font-family: 'Sono', sans-serif;
+    font-size:100px;
+    font-weight: 600;
+}
+.gym{
+    position: absolute;
+    top:500px;
+    left:120px;
+    color:black;
+    font-family: 'Sono', sans-serif;
+    font-size:40px;
+    font-weight: 600;
+}
+.play{
+    position: absolute;
+    left: 1070px;
+    top: 450px;
+}
+.join{
+    position: absolute;
+    left: 220px;
+    top: 650px;
+    color:white;
+    font-size: 20px;
+    border: 5px solid red;
+    border-radius: 40px;
+    padding: 5px;
+    background-color: red;
+}
+.Know{
+    position: absolute;
+    left: 400px;
+    top: 650px;
+    color:white;
+    font-size: 20px;
+    border: 5px solid red;
+    border-radius: 40px;
+    padding: 5px;
+    background-color: red;
+}
+.servise{
+    position: absolute;
+    left: 900px;
+    top: 1200px;
+    color: red;
+}
+.for{
+    position: absolute;
+    left: 730px;
+    top: 1240px;
+    font-family: 'Sono', sans-serif;
+    font-size:40px;
+    font-weight: 600;
+}
+.well{
+    position: absolute;
+    left: 500px;
+    top: 1500px;
+}
+.ex{
+    position: absolute;
+    left: 800px;
+    top: 1500px;
+}
+.exe{
+    position: absolute;
+    left: 1100px;
+    top: 1500px;
+}
+.nut{
+    position: absolute;
+    left: 1400px;
+    top: 1500px;
+}
+.med{
+    position: absolute;
+    left: 480px;
+    top: 1600px;
+    font-family: 'Sono', sans-serif;
+    font-size:20px;
+    font-weight: 600;
+}
+.mus{
+    position: absolute;
+    left: 800px;
+    top: 1600px;
+    font-family: 'Sono', sans-serif;
+    font-size:20px;
+    font-weight: 600;
+}
+.cr{
+    position: absolute;
+    left: 1100px;
+    top: 1600px;
+    font-family: 'Sono', sans-serif;
+    font-size:20px;
+    font-weight: 600;
+}
+.nt{
+    position: absolute;
+    left: 1400px;
+    top: 1600px;
+    font-family: 'Sono', sans-serif;
+    font-size:20px;
+    font-weight: 600;
+}
+.lr{
+    position: absolute;
+    left: 900px;
+    top: 1700px;
+    color: red;
+}
+.ra{
+    position: absolute;
+    left: 1500px;
+    top: 1750px;
+}
+.la{
+    position: absolute;
+    left: 1490px;
+    top: 1759px;
+}
+.kkk{
+    position:absolute;
+    left:80px;
+    top: 2000px;
+}
+.hee{
+    position: absolute;
+    font-size:25px;
+    top: 2100px;
+    left: 750px;
+    color: red;
+}
+.ph{
+    position: absolute;
+    top: 2200px;
+    left: 750px;
+    color: black;
+    font-family: 'Sono', sans-serif;
+    font-size:35px;
+    font-weight: 600;
+}
+.aaa{
+    position: absolute;
+    top: 2330px;
+    left: 750px;
+    color: black;
+    font-family: 'Sono', sans-serif;
+    font-size:30px;
+    font-weight: 600;
+}
+.llll{
+    position: absolute;
+    top: 2550px;
+    left: 750px;
+    color:white;
+    font-size: 30px;
+    border: 5px solid red;
+    border-radius: 40px;
+    padding: 10px;
+    background-color: red;
+}
+.pppp{
+    position: absolute;
+    top: 3000px;
+    left: 80px;
+    color: red;
+    font-size: 25px;
+
+}
+.rrrrr{
+    position: absolute;
+    top: 3050px;
+    left: 80px;
+    color: black;
+    font-size: 40px;
+    font-family: 'Sono', sans-serif;
+    font-size:60px;
+    font-weight: 600;
+}
+.mmm{
+    position: absolute;
+    top:3000px;
+    left: 1400px;
+}
+.yyy{
+    position: absolute;
+    top: 3250px;
+    left: 80px;
+    color: black;
+    font-size: 35px;
+    
+}
+.gg{
+    position: absolute;
+    top: 3480px;
+    left: 80px;
+    color:white;
+    font-size: 30px;
+    border: 5px solid red;
+    border-radius: 40px;
+    padding: 10px;
+    background-color: red;
+}
